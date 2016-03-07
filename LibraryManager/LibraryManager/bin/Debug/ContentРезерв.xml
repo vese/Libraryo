@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLists xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lists>
+    <BooksList>
+      <Books>
+        <Name>книга1</Name>
+        <Author>автор2</Author>
+        <Genre>жанр1</Genre>
+        <Descr>описание3</Descr>
+        <SeriesID>1</SeriesID>
+        <ID>1</ID>
+      </Books>
+      <Books>
+        <Name>книга2</Name>
+        <Author>автор1</Author>
+        <Genre>жанр3</Genre>
+        <Descr>описание2</Descr>
+        <SeriesID>0</SeriesID>
+        <ID>2</ID>
+      </Books>
+      <Books>
+        <Name>книга3</Name>
+        <Author>автор2</Author>
+        <Genre>жанр1</Genre>
+        <Descr>описание3</Descr>
+        <SeriesID>1</SeriesID>
+        <ID>3</ID>
+      </Books>
+    </BooksList>
+    <SeriesList>
+      <Series>
+        <Name>серия13</Name>
+        <Author>автор2</Author>
+        <Genre>жанр1</Genre>
+        <Descr>описание33</Descr>
+        <BooksIDs>
+          <string>1</string>
+          <string>3</string>
+        </BooksIDs>
+        <ID>1</ID>
+      </Series>
+    </SeriesList>
+  </Lists>
+</ArrayOfLists>

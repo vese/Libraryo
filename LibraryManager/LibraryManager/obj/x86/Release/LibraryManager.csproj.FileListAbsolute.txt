@@ -1,0 +1,21 @@
+D:\LibraryManager004\LibraryManager\bin\Release\LibraryManager.exe
+D:\LibraryManager004\LibraryManager\bin\Release\LibraryManager.pdb
+D:\LibraryManager004\LibraryManager\obj\x86\Release\LibraryManager.Form1.resources
+D:\LibraryManager004\LibraryManager\obj\x86\Release\LibraryManager.Properties.Resources.resources
+D:\LibraryManager004\LibraryManager\obj\x86\Release\LibraryManager.csproj.GenerateResource.Cache
+D:\LibraryManager004\LibraryManager\obj\x86\Release\LibraryManager.exe
+D:\LibraryManager004\LibraryManager\obj\x86\Release\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Release\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Release\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Release\LibraryManager.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Release\LibraryManager.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Release\LibraryManager.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\bin\Release\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\bin\Release\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Release\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Release\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\bin\Release\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\bin\Release\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Release\LibraryManager.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Release\LibraryManager.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Release\LibraryManager.csproj.GenerateResource.Cache

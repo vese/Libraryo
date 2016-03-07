@@ -1,0 +1,87 @@
+D:\Library\Library\bin\Debug\Library.exe
+D:\Library\Library\bin\Debug\Library.pdb
+D:\Library\Library\obj\x86\Debug\Library.Form1.resources
+D:\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\Library\Library\obj\x86\Debug\Library.exe
+D:\Library\Library\obj\x86\Debug\Library.pdb
+D:\Library\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Libraryo\Library\Library\obj\x86\Debug\Library.exe
+C:\Users\Илья\Desktop\Libraryo\Library\Library\obj\x86\Debug\Library.pdb
+C:\Users\Илья\Desktop\Libraryo\Library\Library\bin\Debug\Library.exe
+C:\Users\Илья\Desktop\Libraryo\Library\Library\bin\Debug\Library.pdb
+C:\Users\Илья\Desktop\Libraryo\Library\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Libraryo\Library\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\Library\Library\obj\x86\Debug\Library.Form2.resources
+D:\Library\Library\obj\x86\Debug\Library.Form2.resources
+C:\Users\Илья\Desktop\Libraryo\Library001\Library\obj\x86\Debug\Library.exe
+C:\Users\Илья\Desktop\Libraryo\Library001\Library\obj\x86\Debug\Library.pdb
+D:\Library001\Library\obj\x86\Debug\Library.exe
+D:\Library001\Library\obj\x86\Debug\Library.pdb
+D:\Library001\Library\bin\Debug\Library.exe
+D:\Library001\Library\bin\Debug\Library.pdb
+D:\Library001\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Library001\Library\obj\x86\Debug\Library.Form1.resources
+D:\Library001\Library\obj\x86\Debug\Library.Form2.resources
+D:\Library001\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\Library001\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\Library002\Library\obj\x86\Debug\Library.exe
+D:\Library002\Library\obj\x86\Debug\Library.pdb
+D:\Library002\Library\bin\Debug\Library.exe
+D:\Library002\Library\bin\Debug\Library.pdb
+D:\Library002\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Library002\Library\obj\x86\Debug\Library.Form1.resources
+D:\Library002\Library\obj\x86\Debug\Library.Form2.resources
+D:\Library002\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\Library002\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\Library003\Library\obj\x86\Debug\Library.exe
+D:\Library003\Library\obj\x86\Debug\Library.pdb
+D:\Library003\Library\bin\Debug\Library.exe
+D:\Library003\Library\bin\Debug\Library.pdb
+D:\Library003\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Library003\Library\obj\x86\Debug\Library.Form1.resources
+D:\Library003\Library\obj\x86\Debug\Library.Form2.resources
+D:\Library003\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\Library003\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\Library004\Library\obj\x86\Debug\Library.exe
+D:\Library004\Library\obj\x86\Debug\Library.pdb
+D:\Library004\Library\bin\Debug\Library.exe
+D:\Library004\Library\bin\Debug\Library.pdb
+D:\Library004\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Library004\Library\obj\x86\Debug\Library.Form1.resources
+D:\Library004\Library\obj\x86\Debug\Library.Form2.resources
+D:\Library004\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\Library004\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\Library004 - копия\Library\obj\x86\Debug\Library.exe
+D:\Library004 - копия\Library\obj\x86\Debug\Library.pdb
+D:\Library004 - копия\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Library004 - копия\Library\obj\x86\Debug\Library.Form1.resources
+D:\Library004 - копия\Library\obj\x86\Debug\Library.Form2.resources
+D:\Library004 - копия\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\Library004 - копия\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+D:\Library004 - копия\Library\bin\Debug\Library.exe
+D:\Library004 - копия\Library\bin\Debug\Library.pdb
+F:\Library005 MSWord\Library\obj\x86\Debug\Library.exe
+F:\Library005 MSWord\Library\obj\x86\Debug\Library.pdb
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\obj\x86\Debug\Library.exe
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\obj\x86\Debug\Library.pdb
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\bin\Debug\Library.exe
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\bin\Debug\Library.pdb
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\obj\x86\Debug\Library.Form2.resources
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\Library006 MSWord\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.exe
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.pdb
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.Form2.resources
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\bin\Debug\Library.exe
+C:\Users\Илья\Desktop\Libraryo\Library007 загрузка по http\Library\bin\Debug\Library.pdb
+F:\Код\Git\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.exe
+F:\Код\Git\Libraryo\Library007 загрузка по http\Library\obj\x86\Debug\Library.pdb

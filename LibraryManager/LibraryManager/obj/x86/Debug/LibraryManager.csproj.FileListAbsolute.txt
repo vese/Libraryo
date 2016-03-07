@@ -1,0 +1,81 @@
+c:\users\илья\documents\visual studio 2010\Projects\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+c:\users\илья\documents\visual studio 2010\Projects\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+c:\users\илья\documents\visual studio 2010\Projects\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+c:\users\илья\documents\visual studio 2010\Projects\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+c:\users\илья\documents\visual studio 2010\Projects\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+c:\users\илья\documents\visual studio 2010\Projects\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.exe
+c:\users\илья\documents\visual studio 2010\Projects\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+C:\Users\Илья\documents\visual studio 2010\Projects\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.exe
+C:\Users\user\Desktop\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+C:\Users\user\Desktop\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+C:\Users\user\Desktop\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\user\Desktop\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\user\Desktop\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+D:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.exe
+D:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+D:\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+D:\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+D:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+D:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+D:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+D:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Libraryo\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+H:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.exe
+H:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+H:\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+H:\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+H:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+H:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+H:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+H:\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager001\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager001\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Libraryo\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+D:\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.exe
+D:\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+D:\LibraryManager001\LibraryManager\bin\Debug\LibraryManager.exe
+D:\LibraryManager001\LibraryManager\bin\Debug\LibraryManager.pdb
+D:\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+D:\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+D:\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+D:\LibraryManager001\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+D:\LibraryManager004\LibraryManager\obj\x86\Debug\LibraryManager.exe
+D:\LibraryManager004\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+D:\LibraryManager004\LibraryManager\bin\Debug\LibraryManager.exe
+D:\LibraryManager004\LibraryManager\bin\Debug\LibraryManager.pdb
+D:\LibraryManager004\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+D:\LibraryManager004\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+D:\LibraryManager004\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+D:\LibraryManager004\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Debug\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 удаление с ФТП и оповещение о недостающих файлах\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Debug\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Debug\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Debug\LibraryManager.Form1.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Debug\LibraryManager.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\Libraryo\LibraryManager005 недостающие файлы при загрузке\LibraryManager\obj\x86\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+F:\Код\Git\Libraryo\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.exe
+F:\Код\Git\Libraryo\LibraryManager\LibraryManager\obj\x86\Debug\LibraryManager.pdb
